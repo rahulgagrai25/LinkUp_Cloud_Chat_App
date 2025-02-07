@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "635518168121",
+    "project_id": "linkup--translation-chat-app1",
+    "storage_bucket": "linkup--translation-chat-app1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635518168121:android:d801af2666f1e36381b1e8",
+        "android_client_info": {
+          "package_name": "com.example.linkup_translationchatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVk8sC_oUoAJXGiWvn0z2gVX3sc6GM9Eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
