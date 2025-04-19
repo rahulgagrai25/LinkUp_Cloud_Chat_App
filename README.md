@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/rahulgagrai25/LinkUp-Cloud_Chat_App/assets/logo.png" alt="LinkUp Logo" width="120" height="120">
+  <img src="https://github.com/rahulgagrai25/LinkUp-Cloud_Chat_App/app/src/main/res/drawable/logo.png" alt="LinkUp Logo" width="120" height="120">
 </p>
 
 <h1 align="center">LinkUp - Cloud Chat App</h1>
