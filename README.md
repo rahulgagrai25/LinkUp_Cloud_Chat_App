@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Version-1.0-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
   <img src="https://img.shields.io/badge/Platform-Android-lightgrey?style=flat-square" />
-  <img src="https://img.shields.io/badge/Made%20with-Kotlin-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Made%20with-Java-orange?style=flat-square" />
 </p>
 
 ---
